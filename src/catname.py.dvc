@@ -1,0 +1,4 @@
+outs:
+- md5: ba8434878ce4ce453ce501e05f0e5c11
+  size: 351
+  path: catname.py

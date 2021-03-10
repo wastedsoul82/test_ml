@@ -55,3 +55,5 @@ stages:
     - path: model.pkl
       md5: 1bc28ef6f63c6ac3bcc1c4f914c6abc9
       size: 2759278
+  new1:
+    cmd: python3 src/catname.py

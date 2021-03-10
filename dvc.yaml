@@ -29,3 +29,5 @@ stages:
     - train.n_est
     outs:
     - model.pkl
+  new1:
+    cmd: python3 src/catname.py
